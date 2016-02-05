@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "offer_category"; ObjectID = "4aR-wu-OHU"; */
+"4aR-wu-OHU.text" = "Category";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Hif-7d-SUz"; */
+"Hif-7d-SUz.title" = "Item";
+
+/* Class = "UILabel"; text = "offer_date_end"; ObjectID = "N6o-fT-kSa"; */
+"N6o-fT-kSa.text" = "End date";
+
+/* Class = "UILabel"; text = "offer_company"; ObjectID = "NmL-Tf-4B0"; */
+"NmL-Tf-4B0.text" = "Company";
+
+/* Class = "UILabel"; text = "offer_title"; ObjectID = "UoZ-bB-Di4"; */
+"UoZ-bB-Di4.text" = "Title";
+
+/* Class = "UILabel"; text = "offer_description"; ObjectID = "aQ6-Vc-6st"; */
+"aQ6-Vc-6st.text" = "Description";
+
+/* Class = "UILabel"; text = "offer_date_start"; ObjectID = "cti-zn-w7U"; */
+"cti-zn-w7U.text" = "Start date";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "fKS-Ql-Flb"; */
+"fKS-Ql-Flb.text" = "";
+
+/* Class = "UILabel"; text = "offer_project_name"; ObjectID = "gx6-H5-hMU"; */
+"gx6-H5-hMU.text" = "Project";
+
+/* Class = "UIButton"; normalTitle = "Create product"; ObjectID = "nex-Ek-kYE"; */
+"nex-Ek-kYE.normalTitle" = "Create offer";
+
+/* Class = "UILabel"; text = "offer_address"; ObjectID = "rd0-z7-mEy"; */
+"rd0-z7-mEy.text" = "Address";

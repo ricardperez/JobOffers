@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  JobOffers
+
+  Created by Ricard Perez del Campo on 05/02/16.
+  Copyright © 2016 Ricard Perez del Campo. All rights reserved.
+*/
+
+"offer_save" = "Save";
